@@ -1,1 +1,1 @@
-# My-personal-website-V1.0
+Ez egy önálló kis "vanilla" weboldal projektem webprogramozás gyakorlására. 
